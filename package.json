@@ -1,0 +1,19 @@
+{
+  "name": "log-slave",
+  "version": "0.0.1",
+  "description": "My Font-End Log System",
+  "main": "index.js",
+  "dependencies": {
+    "axon": "^2.0.1",
+    "connect": "^3.3.3",
+    "log": "^1.4.0",
+    "map-stream": "^0.0.5",
+    "qs": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT"
+}
